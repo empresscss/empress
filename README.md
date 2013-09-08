@@ -1,6 +1,7 @@
 Empress CSS
 =======
-[Homepage](http://empresscss.github.io/empress/)
+[Project Homepage](http://empresscss.github.io/empress/)
+----
 Empress CSS is a set of CSS style sheets that provide a better, efficient and standardised website boilerplate.
 
 Documentation
